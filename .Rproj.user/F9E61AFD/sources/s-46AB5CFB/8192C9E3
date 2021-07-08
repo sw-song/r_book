@@ -1,24 +1,24 @@
 {
-    "id": "D7AADF22",
-    "path": "~/r_book/05-summary.Rmd",
-    "project_path": "05-summary.Rmd",
+    "id": "8192C9E3",
+    "path": "~/r_book/01-r-ggplot2-qplot.Rmd",
+    "project_path": "01-r-ggplot2-qplot.Rmd",
     "type": "r_markdown",
-    "hash": "3226913806",
+    "hash": "2831938394",
     "contents": "",
     "dirty": false,
-    "created": 1625722471353.0,
+    "created": 1625727555719.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1625720992,
+    "lastKnownWriteTime": 1625727580,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1625720992,
+    "last_content_update": 1625727580490,
     "read_only": false,
     "read_only_alternatives": []
 }
